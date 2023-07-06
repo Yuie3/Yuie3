@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christmas&layout=compact)](https://github.com/Christmas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuie3&layout=compact)](https://github.com/Yuie3/github-readme-stats)
 
 <!--
 **Yuie3/Yuie3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
