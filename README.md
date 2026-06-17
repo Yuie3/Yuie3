@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GitHubCard](https://githubcard.com/Yuie3.svg)
+![GitHubCard]([https://githubcard.com/Yuie3.svg](https://githubcard.com/Yuie3.svg?d=y3sFEGq2))
 
 <!--
 **Yuie3/Yuie3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
